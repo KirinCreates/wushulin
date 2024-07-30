@@ -5,7 +5,7 @@
     import { Utterances, utterancesTheme } from "@codewithshin/svelte-utterances";
     const theme = 'github-light';
     let reponame = "KirinCreates/wushulin"
-    let issueTerm = "url"
+    let issueTerm = "title"
 </script>
 
 <div>

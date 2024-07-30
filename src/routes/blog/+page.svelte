@@ -1,3 +1,7 @@
+<svelte:head>
+	<title>Blogg</title>
+</svelte:head>
+
 <h1>Senaste Bloggposter</h1>
 <hr>
 

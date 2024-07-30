@@ -2,6 +2,10 @@
 	import pubu from '$lib/assets/pubulogga.jpg';
 </script>
 
+<svelte:head>
+	<title>Första bloggposten</title>
+</svelte:head>
+
 <h1 id="första-bloggposten">Första bloggposten</h1>
 <blockquote>
 <p>Datum skrivet: 2024-07-30</p>
