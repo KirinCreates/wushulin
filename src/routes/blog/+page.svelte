@@ -1,8 +1,10 @@
-<svelte:head>
-	<title>Blogg</title>
-</svelte:head>
+<h1>Bloggposter</h1>
+<hr>
 
-<h1>Senaste Bloggposter</h1>
+<h2>
+    <a href="/blog/backsweep 540">540 någonting?!</a>
+</h2>
+<p>Mina tankar kring hemsidan</p>
 <hr>
 
 <h2>

@@ -1,10 +1,10 @@
 <script>
-	import pubu from '$lib/assets/pubulogga.jpg';
+    import pubu from '$lib/assets/pubulogga.jpg';
+    import { Utterances, utterancesTheme } from "@codewithshin/svelte-utterances";
+    const theme = 'github-light';
+    let reponame = "KirinCreates/wushulin";
+    let issueTerm = 'url';
 </script>
-
-<svelte:head>
-	<title>Första bloggposten</title>
-</svelte:head>
 
 <h1 id="första-bloggposten">Första bloggposten</h1>
 <blockquote>
@@ -14,3 +14,7 @@
 <p>Bild som användes till loggan:</p>
 <p><img src={pubu} alt="Bild som användes till loggan" width="500" /></p>
 <p>Tanken med hemsidan är att den ska bli en samlingspunkt för de som är intresserade av att träna  wushu med mig och/eller följa min träning. Har jag tillräckligt med tid så kommer jag att expandera hemsidan med användbara länkar/appar kring wushu som ska underlätta för en utövare.</p>
+
+<h1>Kommentarer</h1>
+<p><em>Man måste skapa ett gratiskonto på github.com för att kunna kommentera</em></p>
+<Utterances {reponame} {issueTerm} {theme} />
