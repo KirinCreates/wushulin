@@ -5,7 +5,7 @@
     <h2 class="text-2xl font-bold my-3 mx-1">
         <a href="/blog/backsweep 540">540 någonting?!</a>
     </h2>
-    <p class="my-3 mx-1">Mina tankar kring hemsidan</p>
+    <p class="my-3 mx-1">Mina tankar kring bakåtsvep inom wushu</p>
     <hr>
 
     <h2 class="text-2xl font-bold my-3 mx-1">
