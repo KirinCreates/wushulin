@@ -1,4 +1,9 @@
+<script>
+    import lin from '$lib/assets/OmLin.webp';
+</script>
+
 <div class="md:w-[48rem] md:mx-auto md:text-lg lg:text-xl">
+    <img class="my-4 mx-auto rounded-full w-40 md:w-52 shadow-2xl" src={lin} alt="Lin">
     <h1 class="text-3xl font-bold my-3 mx-1">Om Lin</h1>
 
     <p class="my-4 md:my-6 mx-1">
@@ -7,8 +12,8 @@
 
     <ul class="pl-7 list-disc">
         <li>Wushu SM 2008: Brons traditionell långt vapen (stav)</li>
-        <li>Wushu SM 2010: Guld Changquan (compulsory). Silver tradtionell vapen (stav) </li>
-        <li>Nordic Wushu Open 2023: Brons tradionell långt vapen</li>
+        <li>Wushu SM 2010: Guld changquan (compulsory). Silver tradtionell vapen (stav) </li>
+        <li>Nordic Wushu Open 2023: Brons traditonell långt vapen</li>
     </ul>
 
     <p class="my-4 md:my-6 mx-1">
