@@ -1,5 +1,6 @@
 <script>
 	import logo from '$lib/assets/logo.webp';
+    import yt from '$lib/assets/yt logo 48px.png';
     import "../app.css";
     export let data;
 </script>
@@ -11,11 +12,12 @@
             {#each data.navItems as navItem}
                 <a href={navItem.url} class="rounded-lg px-3 py-2 text-slate-700 font-medium hover:bg-slate-200 hover:text-slate-900">{navItem.title}</a>
             {/each}
-            <!-- <a class="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="/">Hem</a>
-            <a class="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="/training-wushu">Träna wushu</a>
-            <a class="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="/blog">Blogg</a>
-            <a class="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="/about">Om Lin</a> -->
         </nav>
+    </div>
+    <div class="flex justify-center">
+        <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@Wushulin">
+            <img class="min-[0px]:w-8 sm:w-8 md:w-10 my-[-6px]" alt="Wushulin youtube page" src={yt} />
+        </a>
     </div>
 </div>
 
