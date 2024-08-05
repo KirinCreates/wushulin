@@ -9,6 +9,6 @@
 
     <p class="my-4 md:my-6 mx-1">
         Träningen kommer att hållas utanför Brotorpshallen, utomhus på den stora gräsmattan. Om fotbollsplanen är ledig så kör vi där.
-        Maila förväg om du är ny (se ovan) så vet jag att du kommer.
+        Maila i förväg om du är ny (se ovan) så vet jag att du kommer.
     </p>
 </div>
