@@ -24,7 +24,7 @@
         <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/linloiwushu/">
             <img class="min-[0px]:w-8 sm:w-8 md:w-10 mx-2" alt="Wushulin instagram page" src={insta} />
         </a>
-        <a target="_blank" rel="noopener noreferrer" href="%sveltekit.assets%/rss.xml">
+        <a target="_blank" rel="noopener noreferrer" href="/rss.xml">
             <img class="min-[0px]:w-8 sm:w-8 md:w-10 mx-2" alt="RSS feed" src={rss} />
         </a>
     </div>
