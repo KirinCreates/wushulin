@@ -6,7 +6,7 @@
 <div class="md:w-[48rem] md:mx-auto md:text-lg lg:text-xl">
     <h1 class="text-3xl font-bold my-4 md:my-6 mx-1">Missa inga inlägg!</h1>
     <p class="my-4 md:my-6 mx-1">
-        Vill man prenumerera på mina bloggposter så man inte missar inlägg från mig så kan man prenumerera på bloggen genom
+        Vill man prenumerera på mina bloggposter så man inte missar inlägg från mig så kan man göra detta genom
         att installera en mobilapp (feedly) som hanterar nyheter för dig:
     </p>
     <div class="flex justify-center mb-4">
@@ -19,7 +19,7 @@
     </div>
     <p class="my-4 md:my-6 mx-1">
         Efter installation av appen så är det bara att logga in med google eller apple alternativt skapa ett konto.
-        Sök sedan på wushulin.se och lägg till bloggen med +.
+        Sök sedan på wushulin.se och lägg till bloggen med +. Man startar bara appen och om det finns nya inlägg så borde man få notifikationer
     </p>
     <p class="my-4 md:my-6 mx-1">
         Använder man inte en mobil så kan man skapa ett konto på <a target="_blank" rel="noopener noreferrer" href="https://feedly.com/news-reader" class="text-sky-500 no-underline hover:underline ...">feedly.com</a>
