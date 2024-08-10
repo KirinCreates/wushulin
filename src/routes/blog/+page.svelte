@@ -53,6 +53,12 @@
     <hr>
 
     <h2 class="text-2xl font-bold my-4 md:my-6 mx-1">
+        <a class="text-blue-700 underline" href="/blog/art-of-winning">Konsten att vinna</a>
+    </h2>
+    <p class="my-4 md:my-6 mx-1">Varför tävlar du?</p>
+    <hr>
+
+    <h2 class="text-2xl font-bold my-4 md:my-6 mx-1">
         <a class="text-blue-700 underline" href="/blog/backsweep 540">540 någonting?!</a>
     </h2>
     <p class="my-4 md:my-6 mx-1">Mina tankar kring bakåtsvep inom wushu</p>
