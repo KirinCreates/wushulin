@@ -50,23 +50,24 @@
     </div>
       
     <h1 class="text-3xl font-bold my-4 md:my-6 mx-1">Bloggposter!</h1>
-    <hr>
+    <div class="border-2 border-slate-200 rounded my-1">
+        <h2 class="text-2xl font-bold my-4 md:my-6 mx-1">
+            <a class="text-blue-700 underline" href="/blog/art-of-winning">Konsten att vinna</a>
+        </h2>
+        <p class="my-4 md:my-6 mx-1">Varför tävlar du?</p>
+    </div>
+    
+    <div class="border-2 border-slate-200 rounded my-1">
+        <h2 class="text-2xl font-bold my-4 md:my-6 mx-1">
+            <a class="text-blue-700 underline" href="/blog/backsweep 540">540 någonting?!</a>
+        </h2>
+        <p class="my-4 md:my-6 mx-1">Mina tankar kring bakåtsvep inom wushu</p>
+    </div>
 
-    <h2 class="text-2xl font-bold my-4 md:my-6 mx-1">
-        <a class="text-blue-700 underline" href="/blog/art-of-winning">Konsten att vinna</a>
-    </h2>
-    <p class="my-4 md:my-6 mx-1">Varför tävlar du?</p>
-    <hr>
-
-    <h2 class="text-2xl font-bold my-4 md:my-6 mx-1">
-        <a class="text-blue-700 underline" href="/blog/backsweep 540">540 någonting?!</a>
-    </h2>
-    <p class="my-4 md:my-6 mx-1">Mina tankar kring bakåtsvep inom wushu</p>
-    <hr>
-
-    <h2 class="text-2xl font-bold my-4 md:my-6 mx-1">
-        <a class="text-blue-700 underline" href="/blog/first-post">Första bloggposten!</a>
-    </h2>
-    <p class="my-4 md:my-6 mx-1">Mina tankar kring hemsidan</p>
-    <hr>
+    <div class="border-2 border-slate-200 rounded my-1">
+        <h2 class="text-2xl font-bold my-4 md:my-6 mx-1">
+            <a class="text-blue-700 underline" href="/blog/first-post">Första bloggposten!</a>
+        </h2>
+        <p class="my-4 md:my-6 mx-1">Mina tankar kring hemsidan</p>
+    </div>
 </div>
