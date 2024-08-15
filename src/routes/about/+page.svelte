@@ -36,4 +36,9 @@
         Driver också hemsidan <a target="_blank" rel="noopener noreferrer" href="https://www.praktiskteknik.se" class="text-sky-500 no-underline hover:underline ...">praktiskteknik.se</a> och
         är författaren till marknadens enda teknik 2-bok för gymnasiet: <a target="_blank" rel="noopener noreferrer" href="https://www.teknik2bok.se" class="text-sky-500 no-underline hover:underline ...">teknik2bok.se</a>.
     </p>
+
+    <p class="my-4 md:my-6 mx-1">
+        Hemsidan är designad med Sveltekit, Tailwind CSS och Javascript. Jag har erfarenheter av Full-stack webbutveckling (NodeJS, JS, MongoDB, EJS). Är du intresserad av att
+        skaffa en hemsida till dig/ditt företag så kan du kontakta mig via e-post: kirin.makes'at'gmail.com (ersätt 'at' med @).
+    </p>
 </div>

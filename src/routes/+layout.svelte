@@ -18,7 +18,7 @@
         </nav>
     </div>
     <div class="flex justify-center">
-        <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@Wushulin">
+        <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@Wushulin?sub_confirmation=1">
             <img class="min-[0px]:w-8 sm:w-8 md:w-10 mx-2" alt="Wushulin youtube page" src={yt} />
         </a>
         <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/linloiwushu/">
