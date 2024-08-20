@@ -11,4 +11,8 @@
         om till en sport där man kan tävla. På tävlingar så blir bedömd på den atletiska förmåga som man 
         kan visa i sina rutiner (om man ska grovt förenkla).
     </p>
+
+    <h1 class="text-3xl font-bold my-4 md:my-6 mx-1">Detta är wushu</h1>
+    <p class="my-4 md:my-6 mx-1">Titta på videoklippet nedan för att få en känsla av vad modern wushu är:</p>
+    <iframe class="mb-4" width="560" height="315" src="https://www.youtube.com/embed/2Ofp96HFh88?si=a5tebiUfa_HAZBmp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
