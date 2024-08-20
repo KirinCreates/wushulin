@@ -7,6 +7,22 @@
 <description>Lins Hemsida och blogg om att träna wushu</description>
 
     <item>
+        <title>Min trailer</title>
+        <link>https://wushulin.se/blog/trailer</link>
+        <guid>https://wushulin.se/blog/trailer</guid>
+        <pubDate>Tue, 20 Aug 2024 17:00:00 GMT</pubDate>
+        <description>Ett gott försök till en i alla fall!</description>
+    </item>
+
+    <item>
+        <title>High impact recovery!</title>
+        <link>https://wushulin.se/blog/recovery</link>
+        <guid>https://wushulin.se/blog/recovery</guid>
+        <pubDate>Thu, 15 Aug 2024 17:00:00 GMT</pubDate>
+        <description>Återhämtning på hög nivå här!</description>
+    </item>
+
+    <item>
         <title>Konsten att vinna</title>
         <link>https://wushulin.se/blog/art-of-winning</link>
         <guid>https://wushulin.se/blog/art-of-winning</guid>
