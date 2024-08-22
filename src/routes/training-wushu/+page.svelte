@@ -8,7 +8,13 @@
     </p>
 
     <p class="my-4 md:my-6 mx-1">
-        Träningen kommer att hållas utanför Brotorpshallen, utomhus på den stora gräsmattan. Om fotbollsplanen är ledig så kör vi där.
+        Träningen kommer att hållas utanför Brotorpshallen måndagar kl. 18-19, utomhus på den stora gräsmattan. Om fotbollsplanen är ledig så kör vi där.
         Maila i förväg om du är ny (se ovan) så vet jag att du kommer.
     </p>
+    <p class="my-4 md:my-6 mx-1">
+        Vi håller oss vid Ursviks Spårcentral (stora gräsmattan alt. på fotbollsplanen om den är ledig). Se den blåa markören:
+    </p>
+    <div class="mx-1 mb-6">
+        <iframe class="w-full aspect-square" src="https://www.google.com/maps/d/u/0/embed?mid=173PJKfYG1glyvrLf2TmMba8IqiTNRq0&ehbc=2E312F"></iframe>
+    </div>
 </div>
