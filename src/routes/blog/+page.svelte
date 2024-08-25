@@ -52,6 +52,12 @@
     <h1 class="text-3xl font-bold my-4 md:my-6 mx-1">Bloggposter!</h1>
     <div class="border-2 border-slate-200 rounded my-1">
         <h2 class="text-2xl font-bold my-4 md:my-6 mx-1">
+            <a class="text-blue-700 underline" href="/blog/why-practicing-martial-arts">Varför träna kampsport?</a>
+        </h2>
+        <p class="my-4 md:my-6 mx-1">Hur vill du att din kampsportsresa ska se ut?</p>
+    </div>
+    <div class="border-2 border-slate-200 rounded my-1">
+        <h2 class="text-2xl font-bold my-4 md:my-6 mx-1">
             <a class="text-blue-700 underline" href="/blog/reklampelare">Levande reklampelare</a>
         </h2>
         <p class="my-4 md:my-6 mx-1">Alla i familjen ingår!</p>
