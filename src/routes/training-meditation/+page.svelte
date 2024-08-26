@@ -3,7 +3,7 @@
 
     <h1 class="text-3xl font-bold my-4 md:my-6 mx-1" id="why-practicing-meditation">Varför träna meditation?</h1>
     <p class="my-4 md:my-6 mx-1">Kort sagt så kan det förbättra ditt vardagliga liv.</p>
-    <p class="my-4 md:my-6 mx-1">[I bloggposten så nämner jag ordet <em>medvetenhet</em>. Med medvetenhet så menar jag att vara <em>aware</em> (eng.) eller <em>mindful</em>, vilket innebär att man vet vad det är som man upplever så detaljerat som möjligt. De orden betyder samma sak. Med medvetenhet menar jag inte att man är i vaket tillstånd (alltså att man inte sover).]</p>
+    <p class="my-4 md:my-6 mx-1">[I texten så nämner jag ordet <em>medvetenhet</em>. Med medvetenhet så menar jag att vara <em>aware</em> (eng.) eller <em>mindful</em>, vilket innebär att man vet vad det är som man upplever så detaljerat som möjligt. De orden betyder samma sak. Med medvetenhet menar jag inte att man är i vaket tillstånd (alltså att man inte sover).]</p>
     <p class="my-4 md:my-6 mx-1">De effekter som man kan få med meditation är ju väldigt subjektivt, men om man tränar meditation som grundar sig i att vara fokuserad på meditationsobjekt samt är medveten (eng. aware) över sina upplevelser (i sinnet) så kommer man att förbättra:</p>
     <ul class="pl-7 list-disc">
         <li>Sitt fokus. Förmågan att koncentrera eller stabilisera sinnet kring ett sinnesobjekt (känsla i kroppen, tankar, emotioner, smak, doft, hörsel, känsel och syn).</li>
