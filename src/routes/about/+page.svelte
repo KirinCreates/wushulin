@@ -28,8 +28,8 @@
 
     <p class="my-4 md:my-6 mx-1">
         Är för övrigt utbildad Gymnasielärare inom teknik, matematik, programmering etc. och utbildad
-        civilingenjör inom datateknik (Chalmers), masterexamen inom datavetenskap: Algoritmer, logic och programspråk (Chalmers) 
-        samt Masterexamen inom datavetenskap från KAIST.
+        civilingenjör inom datateknik (Chalmers), masterexamen inom datavetenskap: Algoritmer, logik och programspråk (Chalmers) 
+        samt Masterexamen inom datavetenskap från KAIST (fokus på robotik).
     </p>
 
     <p class="my-4 md:my-6 mx-1">

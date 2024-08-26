@@ -8,6 +8,7 @@
 <div class="md:w-[48rem] md:mx-auto md:text-lg lg:text-xl">
 
 <h1 class="text-3xl font-bold my-4 md:my-6 mx-1" id="varför-träna-kampsport">Varför träna kampsport?</h1>
+<p class="my-4 md:my-6 mx-1"><em>Datum skrivet: 2024-08-25</em></p>
 <p class="my-4 md:my-6 mx-1">TLDR: För att det kan vara karaktärsdanande på ett bra sätt.</p>
 <p class="my-4 md:my-6 mx-1">Förutom att man kan se cool ut och imponera på andra så tränar man verkligen inom wushu/kungfu den atletiska förmågan till det yttersta! Är du nöjd med det svaret så kan du sluta läsa. Mina erfarenheter säger att se cool samt atletisk förmåga är inte långvariga mål. För lite mer substans, läs vidare!</p>
 <p class="my-4 md:my-6 mx-4"><em>Beroende hur man är som person och vilka drivkrafter som man har så anser jag att det kan vara karaktärsdanande på ett bra eller mindre bra sätt.</em></p>

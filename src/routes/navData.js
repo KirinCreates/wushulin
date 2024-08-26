@@ -8,6 +8,10 @@ export const navItems = [
         title: 'Träna wushu'
     },
     {
+        url: '/training-meditation',
+        title: 'Träna meditation'
+    },
+    {
         url: '/blog',
         title: 'Blogg'
     },

@@ -12,9 +12,14 @@
 
     <p class="my-4 md:my-6 mx-1">
         Wushu är det kinesiska ordet för kampsport. Det är ju en väldigt bred term som inkluderar alla kampsporter. Oftast när man skriver eller pratar om wushu så 
-        syftar man på den kinesiska kampsporten kung-fu. Kung-fu har genom åren morderniserats för att anpassas
+        syftar man på den kinesiska kampsporten kung-fu (stavas oftast som gong-fu då det är närmare hur det uttalas i Kina). Kung-fu har genom åren moderniserats för att anpassas
         om till en sport där man kan tävla. På tävlingar så blir bedömd på den atletiska förmåga som man 
         kan visa i sina rutiner (om man ska grovt förenkla).
+    </p>
+
+    <p class="my-4 md:my-6 mx-1">
+        Vill man har ett mer fördjupat svar med mina perspektiv så kan man läsa bloggposten: 
+        <a class="text-blue-700 underline" href="https://www.wushulin.se/blog/why-practicing-martial-arts">Varför träna kampsport?</a>
     </p>
 
 </div>
