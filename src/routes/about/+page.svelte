@@ -7,7 +7,7 @@
     <h1 class="text-3xl font-bold my-3 mx-1">Om Lin</h1>
 
     <p class="my-4 md:my-6 mx-1">
-        Jag har tränat kampsort i mer än 10 år, ca 7 år i kungfu/wushu. Mina tävlingsmeriter (1:a-3:e platser) inom wushu är:
+        Jag har tränat kampsport i mer än 10 år, ca 7 år i kungfu/wushu. Mina tävlingsmeriter (1:a-3:e platser) inom wushu är:
     </p>
 
     <ul class="pl-7 list-disc">
