@@ -1,8 +1,11 @@
 <div class="md:w-[48rem] md:mx-auto md:text-lg lg:text-xl">
     <h1 class="text-3xl font-bold my-4 md:my-6 mx-1">Detta är wushu/kungfu</h1>
-    <p class="my-4 md:my-6 mx-1">Titta på videoklippet nedan för att få en känsla av vad modern wushu är:</p>
+    <p class="my-4 md:my-6 mx-1">Titta på videoklippen nedan för att få en känsla av vad modern wushu är:</p>
     <div class="mx-1 mb-6">
         <iframe class="w-full aspect-video" src="https://www.youtube.com/embed/2Ofp96HFh88?si=a5tebiUfa_HAZBmp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+    <div class="mx-1 mb-6">
+        <iframe class="w-full aspect-video"src="https://www.youtube.com/embed/_DTK0fif47I?si=5Gek8vzkLarP8VHF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
     <h1 class="text-3xl font-bold my-4 md:my-6 mx-1">Välkommen till Wushulin!</h1>
     <p class="my-4 md:my-6 mx-1">
