@@ -1,5 +1,5 @@
 <div class="md:w-[48rem] md:mx-auto md:text-lg lg:text-xl">
-    <h1 class="text-3xl font-bold my-4 md:my-6 mx-1">Träna wushu</h1>
+    <h1 class="text-3xl font-bold my-4 md:my-6 mx-1">Träna kungfu/wushu</h1>
     
     <div class="mx-1 mb-6">
         <iframe class="w-full aspect-[9/16]" src="https://youtube.com/embed/HNytzq6FXMI?si=S9G9HRY5z5akCcP1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
