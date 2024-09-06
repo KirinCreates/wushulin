@@ -12,8 +12,8 @@
 
     <ul class="pl-7 list-disc">
         <li>Wushu SM 2008: Brons traditionell långt vapen (stav)</li>
-        <li>Wushu SM 2010: Guld changquan (compulsory). Silver tradtionell vapen (stav) </li>
-        <li>Nordic Wushu Open 2023: Brons traditonell långt vapen</li>
+        <li>Wushu SM 2010: Guld changquan (compulsory). Silver traditionell vapen (stav) </li>
+        <li>Nordic Wushu Open 2023: Brons traditionell långt vapen</li>
     </ul>
 
     <p class="my-4 md:my-6 mx-1">
