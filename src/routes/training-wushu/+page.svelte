@@ -8,11 +8,12 @@
     </p>
 
     <p class="my-4 md:my-6 mx-1">
-        Träningen kommer att hållas bredvid Brotorpshallen måndagar (när det inte regnar) kl. 18-19, utomhus på den stora gräsmattan. Om fotbollsplanen är ledig så kör vi där.
-        Maila i förväg om du är ny (se ovan) så vet jag att du kommer.
+        Ni kan också nå mig via facebook. Se facebook-ikonen längst upp på hemsidan.
     </p>
+
     <p class="my-4 md:my-6 mx-1">
-        Vi håller oss vid Ursviks Spårcentral (stora gräsmattan alt. på fotbollsplanen om den är ledig). Se den blåa markören:
+        Träningen kommer att hållas i Brotorpshallen måndagar kl. 18-19. 
+        Maila i förväg om du är ny eller kontakta mig via facebook (se ovan) så vet jag att du kommer.
     </p>
     <div class="mx-1 mb-6">
         <iframe class="w-full aspect-square" src="https://www.google.com/maps/d/u/0/embed?mid=173PJKfYG1glyvrLf2TmMba8IqiTNRq0&ehbc=2E312F"></iframe>

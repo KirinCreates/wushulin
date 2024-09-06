@@ -1,5 +1,6 @@
 <script>
 	import logo from '$lib/assets/logo.webp';
+    import fb from '$lib/assets/fb logo 48px.png';
     import yt from '$lib/assets/yt logo 48px.png';
     import insta from '$lib/assets/insta logo 48px.png';
     import rss from '$lib/assets/rss feed icon 512px.png';
@@ -18,6 +19,9 @@
         </nav>
     </div>
     <div class="flex justify-center">
+        <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/groups/1551666515730401">
+            <img class="min-[0px]:w-8 sm:w-8 md:w-10 mx-2" alt="Wushulin facebook group" src={fb} />
+        </a>
         <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@Wushulin?sub_confirmation=1">
             <img class="min-[0px]:w-8 sm:w-8 md:w-10 mx-2" alt="Wushulin youtube page" src={yt} />
         </a>
