@@ -6,7 +6,7 @@
     </div>
     
     <p class="my-4 md:my-6 mx-1">
-        Enklast når ni mig via <a target="_blank" rel="noopener noreferrer" href="https://m.me/linloi1337" class="text-sky-500 no-underline hover:underline ...">facebook messenger</a>. Bör då kunna skicka privatmeddelanden
+        Enklast når ni mig via <a target="_blank" rel="noopener noreferrer" href="https://m.me/linloi1337" class="text-sky-500 no-underline hover:underline ...">facebook messenger</a>. Då kan ni skicka privatmeddelanden till mig.
     </p>
     <p class="my-4 md:my-6 mx-1">
         Vill man inte nå mig via messenger så kan man också kontakta mig i förväg via kirin.makes'at'gmail.com (ersätt 'at' med @) med ämnesraden 
