@@ -4,6 +4,10 @@
     <div class="mx-1 mb-6">
         <iframe class="w-full aspect-[9/16]" src="https://youtube.com/embed/HNytzq6FXMI?si=S9G9HRY5z5akCcP1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
+
+    <div class="mx-1 mb-6">
+        <iframe class="w-full aspect-[9/16]" src="https://youtube.com/embed/d3Xoz1rLWwA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
     
     <p class="my-4 md:my-6 mx-1">
         Enklast når ni mig via <a target="_blank" rel="noopener noreferrer" href="https://m.me/linloi1337" class="text-sky-500 no-underline hover:underline ...">facebook messenger</a>. Då kan ni skicka privatmeddelanden till mig.
