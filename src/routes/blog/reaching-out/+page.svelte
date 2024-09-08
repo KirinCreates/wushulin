@@ -10,7 +10,7 @@
     </div>
 
     <p class="my-4 md:my-6 mx-1">
-        Gjorde ont i örat som fick tillfällig tinnitus när man slog i staven mot betonggolvet 🙉.
+        Gjorde ont i örat samt fick tillfällig tinnitus när man slog i staven mot betonggolvet 🙉. Försökte göra för många sekvenser där man slog hela staven mot marken.
     </p>
     
     <p class="my-4 md:my-6 mx-1">
