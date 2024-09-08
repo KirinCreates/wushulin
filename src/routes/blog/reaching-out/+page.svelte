@@ -15,10 +15,10 @@
     
     <p class="my-4 md:my-6 mx-1">
         Veckan började med träning kl 18-19 i Ursviks spårcentral. Hade regnat delar av dagen men inget regn när träningen skulle börja. Måndagen var den dagen för att se om det skulle
-        komma några till gratis-provträningen efter lite reklam både på jobbet och facebook-grupper. Jag förväntade att det inte skulle komma några alls p.g.a. vädret men blev positivt
+        komma några till gratis-provträningen efter lite reklam både på jobbet och facebook-grupper. Jag förväntade mig inte att dets skulle komma några alls p.g.a. vädret men blev positivt
         överraskad då en person kom och senare var en familj intresserad när vi körde stav. Körde uppvärmning, grundsparkar, grundformen (wubu quan) och de fick prova på lite stav. En undrade 
-        om träningen kunde vara i en lokal medans en annan undrade om hur ofta träningen var under veckan. Jag tänker att jag kör en gång i veckan för att kolla intresset och sedan beslutar
-        om jag ska erbjuda träningen eller inte. Ska man misslyckas så ska man göra det fort och gå vidare. Dock så tänker jag att man kan vara lite ihärdig vad gällande att försöka
+        om träningen kunde vara i en lokal medans en annan undrade hur ofta träningen var under veckan. Jag tänker att jag kör en gång i veckan för att kolla intresset och sedan beslutar
+        om jag ska erbjuda träningen eller inte. Ska man misslyckas så ska man ju göra det fort och gå vidare. Dock så tänker jag att man kan vara lite ihärdig vad gällande att försöka
         nå ut över tid för att se om det ger resultat. Tror ju det ge mig bra lärdomar kring att nå ut till en publik/intressenter!
     </p>
     <p class="my-4 md:my-6 mx-1">
@@ -27,7 +27,7 @@
         Eller kanske kör en uppvisning. Dock så tror jag internetreklam kan vara lite mer effektiv.
     </p>
     <p class="my-4 md:my-6 mx-1">
-        Känner ni folk som bor i området (Järvastaden, Sundbyberg, Solna) så får ni gärna rekommendera träningen!
+        Känner ni folk som bor i området (Järvastaden, Sundbyberg, Solna) som ni tror kan vara intresserade så får ni gärna rekommendera träningen!
     </p>
 </div>
   
