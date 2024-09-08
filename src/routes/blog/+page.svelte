@@ -52,6 +52,12 @@
     <h1 class="text-3xl font-bold my-4 md:my-6 mx-1">Bloggposter!</h1>
     <div class="border-2 border-slate-200 rounded my-1">
         <h2 class="text-2xl font-bold my-4 md:my-6 mx-1">
+            <a class="text-blue-700 underline" href="/blog/reaching-out">Att nå ut</a>
+        </h2>
+        <p class="my-4 md:my-6 mx-1">Veckan som gått samt stavträning</p>
+    </div>
+    <div class="border-2 border-slate-200 rounded my-1">
+        <h2 class="text-2xl font-bold my-4 md:my-6 mx-1">
             <a class="text-blue-700 underline" href="/blog/training-20240830">Kombinationsträning 2024-08-30</a>
         </h2>
         <p class="my-4 md:my-6 mx-1">Lite changquan (long fist)</p>
