@@ -19,7 +19,7 @@
         överraskad då en person kom och senare var en familj intresserad när vi körde stav. Körde uppvärmning, grundsparkar, grundformen (wubu quan) och de fick prova på lite stav. En undrade 
         om träningen kunde vara i en lokal medans en annan undrade hur ofta träningen var under veckan. Jag tänker att jag kör en gång i veckan för att kolla intresset och sedan beslutar
         om jag ska erbjuda träningen eller inte. Ska man misslyckas så ska man ju göra det fort och gå vidare. Dock så tänker jag att man kan vara lite ihärdig vad gällande att försöka
-        nå ut över tid för att se om det ger resultat. Tror ju det ge mig bra lärdomar kring att nå ut till en publik/intressenter!
+        nå ut över tid för att se om det ger resultat. Tror ju det kan ge mig bra lärdomar kring att nå ut till en publik/intressenter!
     </p>
     <p class="my-4 md:my-6 mx-1">
         Har testat att dela ut flyers samt sätta upp affischer på olika ställen. Tror inte det ger så mycket. Hur ofta tittar mycket folk på anslagstavlor? Tror folk
