@@ -1,7 +1,7 @@
 <div class="md:w-[48rem] md:mx-auto md:text-lg lg:text-xl">
     <h1 class="text-3xl font-bold my-4 md:my-6 mx-1">Börja träna kungfu/wushu</h1>
     <p class="my-4 md:my-6 mx-1">
-        Plats: Fridensborgsvägen 64, Solna (Järvastaden). Bredvid Nära dej Fridens. <br>
+        Plats: Fridensborgsvägen 64, Solna (Järvastaden). Bredvid Nära dej Fridens livs. <br>
         Tid: kl. 18-19.30 <br>
         Pris: Ett gratispass. Efter det 1200 kr för ett pass i veckan (sista träningsveckan för terminen: v.50).
     </p>
