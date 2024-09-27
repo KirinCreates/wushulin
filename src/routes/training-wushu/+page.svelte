@@ -6,7 +6,7 @@
         Pris: Ett gratispass. Efter det 1200 kr för ett pass i veckan (sista träningsveckan för terminen: v.50).
     </p>
     <div class="mx-1 mb-6">
-        <iframe class="w-full aspect-[9/16]" src="https://youtube.com/embed/9olxaPMV0v4?si=rShqEN8M6IFC1iHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe class="w-full aspect-[9/16]" src="https://youtube.com/embed/H5hotpFaN_4?si=6Qe3aQzca2kWHtP9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
 
     <div class="mx-1 mb-6">
