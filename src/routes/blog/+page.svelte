@@ -51,6 +51,13 @@
       
     <h1 class="text-3xl font-bold my-4 md:my-6 mx-1">Bloggposter!</h1>
     <div class="border-2 border-slate-200 rounded my-1">
+        <p class="my-4 md:my-6 mx-1 float-right"><em>Skrevs 2024-10-07</em></p>
+        <h2 class="text-2xl font-bold my-4 md:my-6 mx-1">
+            <a class="text-blue-700 underline" href="/blog/training-20241005">Kungfu-träning 2024-10-05</a>
+        </h2>
+        <p class="my-4 md:my-6 mx-1">Hoppsparkar efter ett litet break</p>
+    </div>
+    <div class="border-2 border-slate-200 rounded my-1">
         <p class="my-4 md:my-6 mx-1 float-right"><em>Skrevs 2024-09-15</em></p>
         <h2 class="text-2xl font-bold my-4 md:my-6 mx-1">
             <a class="text-blue-700 underline" href="/blog/training-20240913">Kungfu-träning 2024-09-13</a>
