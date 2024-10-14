@@ -3,8 +3,9 @@
     <p class="my-4 md:my-6 mx-1">
         Plats: Fridensborgsvägen 64, Solna (Järvastaden). Bredvid Nära dej Fridens livs. <br>
         Tid: Söndagar kl. 10-11.30<br>
-        Pris: Ett gratispass. Efter det 1200 kr/person för ett pass i veckan (sista träningsveckan för terminen: v.50).
-        Betalning: Till bankgiro: 5890-5381. Meddelande: "namn+personnummer" (12 siffror) för varje person som tränar. Separera flera personer med kommatecken.
+        Pris: Ett gratispass. Efter det 1200 kr/person för ett pass i veckan (sista träningsveckan för terminen: v.50). <br>
+        Betalning: Till bankgiro: 5890-5381. Meddelande: "namn+personnummer" (12 siffror) för varje person som tränar. Separera flera personer med kommatecken. <br>
+        Ingen återbetalning av träningsavgift sker.
     </p>
     <div class="mx-1 mb-6">
         <iframe class="w-full aspect-[9/16]" src="https://youtube.com/embed/H5hotpFaN_4?si=6Qe3aQzca2kWHtP9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
