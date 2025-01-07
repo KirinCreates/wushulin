@@ -1,10 +1,13 @@
 <div class="md:w-[48rem] md:mx-auto md:text-lg lg:text-xl">
     <h1 class="text-3xl font-bold my-4 md:my-6 mx-1">Börja träna kungfu/wushu</h1>
     <p class="my-4 md:my-6 mx-1">
-        Plats: Fridensborgsvägen 64, Solna (Järvastaden). Bredvid Nära dej Fridens livs. <br>
-        Tid: Söndagar kl. 10-11.30<br>
-        Pris: Ett gratispass. Efter det 1200 kr/person för ett pass i veckan (sista träningsveckan för terminen: v.50). <br>
-        Betalning: Till bankgiro: 5890-5381. Meddelande: "namn+personnummer" (12 siffror) för varje person som tränar. Separera flera personer med kommatecken. <br>
+        <b>Plats</b>: Fridensborgsvägen 64, Solna (Järvastaden). Bredvid Nära dej Fridens livs. <br>
+        <b>Tid</b>: Söndagar kl. 10-11.30<br>
+        <b>Terminsstart</b>: Vecka 2, söndagen den 12/1.<br>
+        <b>Terminsslut</b>: Vecka 24, söndagen den 15/6. <br>
+        <b>Pris</b>: Ett gratispass. Efter det 1800 kr/person för ett pass i veckan. <br>
+        <b>Ingen träning</b> under påsklovsveckan v. 16. <br>
+        <b>Betalning</b>: Till bankgiro: 5890-5381. Meddelande: "namn+personnummer" (12 siffror) för varje person som tränar. Separera flera personer med kommatecken. <br>
         Ingen återbetalning av träningsavgift sker.
     </p>
     <div class="mx-1 mb-6">
