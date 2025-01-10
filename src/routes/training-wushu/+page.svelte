@@ -5,7 +5,7 @@
         <b>Tid</b>: Fredagar kl. 16.45-17.45 (start från v. 3) och söndagar kl. 10-11.30<br>
         <b>Terminsstart</b>: Vecka 2, söndagen den 12/1.<br>
         <b>Terminsslut</b>: Vecka 24, söndagen den 15/6. <br>
-        <b>Pris</b>: Ett gratispass. Efter det 1800 kr/person för ett pass i veckan. <br>
+        <b>Pris</b>: Ett gratispass. Efter det 1800 kr/person för två pass i veckan. <br>
         <b>Ingen träning</b> under påsklovsveckan v. 16. <br>
         <b>Betalning</b>: Till bankgiro: 5890-5381. Meddelande: "namn+personnummer" (12 siffror) för varje person som tränar. Separera flera personer med kommatecken. <br>
         Ingen återbetalning av träningsavgift sker.
