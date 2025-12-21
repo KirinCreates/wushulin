@@ -51,6 +51,13 @@
       
     <h1 class="text-3xl font-bold my-4 md:my-6 mx-1">Bloggposter!</h1>
     <div class="border-2 border-slate-200 rounded my-1">
+        <p class="my-4 md:my-6 mx-1 float-right"><em>Skrevs 2025-12-21</em></p>
+        <h2 class="text-2xl font-bold my-4 md:my-6 mx-1">
+            <a class="text-blue-700 underline" href="/blog/nordic-2025-resultat">Tävlingsresultat: 7th Nordic Open Wushu Championships</a>
+        </h2>
+        <p class="my-4 md:my-6 mx-1">Det blev 🥇 (guld) och 🥈(silver) för klubbens medlemmar i en internationell kungfu-tävling!</p>
+    </div>
+    <div class="border-2 border-slate-200 rounded my-1">
         <p class="my-4 md:my-6 mx-1 float-right"><em>Skrevs 2024-10-07</em></p>
         <h2 class="text-2xl font-bold my-4 md:my-6 mx-1">
             <a class="text-blue-700 underline" href="/blog/training-20241005">Kungfu-träning 2024-10-05</a>
